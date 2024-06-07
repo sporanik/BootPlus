@@ -34,7 +34,7 @@ Project Links:https://lemon-field-01a20f200.5.azurestaticapps.net/
 
 Project Demo Link:https://youtu.be/XSiEw0RhpnA
 
-Git hub: Repository Link:sporanik.github.io/BootPlus/
+Git hub Repository Link:  sporanik.github.io/BootPlus/
 
 
 Contributors:
