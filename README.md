@@ -24,10 +24,15 @@ Technologies Stack:
 HTML, CSS, JavaScript , Bootstrap
 Version Control: Git, GitHub
 
+Azure Services:
+Static Web App
+Virtual Network
+Azure AI Services
+
 
 Azure technologies used for Project:
 
-Purpose and Functionality: The purpose of this project is to simplify the purchasing and access of Shoes. These features ensure that the platform meets the needs of both Buyers and Sellers. By integrating these functionalities, the project offers a practical and scalable platform to enhance the experience for both Buyers and Sellers.
+Purpose and Functionality: The purpose of this project is to simplify the purchasing and access of Shoes. These features ensure that the platform meets the needs of both Buyers and Sellers. By integrating these functionalities, the project offers a practical and scalable platform to enhance the experience for both Buyers and Sellers.In this project we use three Azure services first one is Static Web App second one is Virtual Network and last one is Azure AI services.
 
 
 Project Links:https://lemon-field-01a20f200.5.azurestaticapps.net/
