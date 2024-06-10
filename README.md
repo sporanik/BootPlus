@@ -35,9 +35,9 @@ Azure technologies used for Project:
 Purpose and Functionality: The purpose of this project is to simplify the purchasing and access of Shoes. These features ensure that the platform meets the needs of both Buyers and Sellers. By integrating these functionalities, the project offers a practical and scalable platform to enhance the experience for both Buyers and Sellers.In this project we use three Azure services first one is Static Web App second one is Virtual Network and last one is Azure AI services.
 
 
-Project Demo Links:https://lemon-field-01a20f200.5.azurestaticapps.net/
+Project Demo URL:https://lemon-field-01a20f200.5.azurestaticapps.net/
 
-Project Demo Video Link:https://youtu.be/XSiEw0RhpnA
+Project Demo Video URL:https://youtu.be/XSiEw0RhpnA
 
 Git hub Repository Link: sporanik.github.io/BootPlus/
 
