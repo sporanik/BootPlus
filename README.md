@@ -1,5 +1,5 @@
 
-This is a E-commerce website Front End website design
+This is a Front End design of an E-commerce website.
 
 **Used Technologies :** HTML, CSS, JS, Bootstrap
 
