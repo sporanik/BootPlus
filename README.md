@@ -43,9 +43,10 @@ HTML, CSS, JavaScript , Bootstrap
 **Version Control:** Git, GitHub
 
 ### **Azure Services :**
-Static Web App
-Virtual Network
-Azure AI Services
+1. Static Web App
+2. Virtual Network 
+3. Azure AI Services
+4. Language AI
 
 ### **URL :**
 **1. Project Demo URL :** https://lemon-field-01a20f200.5.azurestaticapps.net/
