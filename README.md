@@ -1,5 +1,5 @@
 
-This is a Front End design of an E-commerce website.
+This is an E-commerce shoe shopping website.
 
 **Used Technologies :** HTML, CSS, JS, Bootstrap
 
