@@ -7,22 +7,22 @@ This is an E-commerce shoe shopping website.
 
 **Note :** Bot is deployed on Home page
 
-### **Industry :**
+# **Industry :**
 Lifestyle
 
-### **Project Title :**
+# **Project Title :**
 Bootplus
 
-### **Problem Statement/opportunity :**
+# **Problem Statement/opportunity :**
 
 Develop a static e-commerce shoe shopping website leveraging Microsoft Bot and Azure services. Implement features such as product browsing, search, and checkout using Azure services for enhanced functionality. Integrate Microsoft Bot for customer support and streamline user interactions. Optimize for performance and security within the static framework for seamless online shopping.
 
 
-### **Project Description :**
+# **Project Description :**
 
 This project entails creating a static e-commerce shoe shopping website integrated with a Microsoft Chat Bot and several Azure services. The website aims to address the increasing demand for online shoe retail, offering users a seamless shopping experience.
 
-### **Features :**
+# **Features :**
 
 **1. Static Website:** A fast-loading and easily maintainable website.
 
@@ -35,26 +35,26 @@ This project entails creating a static e-commerce shoe shopping website integrat
 **5. Responsive Design:** Optimized for various devices to provide an optimal viewing experience.
 
 
-### **Technologies Stack :**
+# **Technologies Stack :**
 
 HTML, CSS, JavaScript , Bootstrap
 
 **Version Control:** Git, GitHub
 
-### **Azure Services :**
+# **Azure Services :**
 1. Static Web App
 2. Virtual Network 
 3. Azure AI Services
 4. Language AI
 
-### **URL :**
+# **URL :**
 **1. Project Demo URL :** https://lemon-field-01a20f200.5.azurestaticapps.net/
 
 **2. Project Demo Video URL :** https://youtu.be/XSiEw0RhpnA
 
 **3. Git hub Repository URL :** https://sporanik.github.io/BootPlus/
 
-### **Member's Contributions :**
+# **Member's Contributions :**
 
 **1.** Suryansh Poranik - Project Mananger / Project Leader
 
@@ -65,7 +65,7 @@ HTML, CSS, JavaScript , Bootstrap
 **4.** Vishal Kumar -  Quality Assurance Tester
 
 
-### **ScreenShot :**
+# **ScreenShot :**
 
 
 **Azure services :**
@@ -110,6 +110,18 @@ HTML, CSS, JavaScript , Bootstrap
 **Blog Page :**
 
 ![Blog](https://github.com/sporanik/BootPlus/assets/169908242/b2a83fe6-482c-4d65-a400-677cd00f69c2)
+
+# Team members :
+Suryansh Poranik (sporanik) : https://github.com/sporanik
+
+Sushil Kumar Dwivedi (SushilDwivedi2005) : https://github.com/SushilDwivedi2005
+
+Vive Patel (vivekpatel200) : https://https://github.com/vivekpatel200
+
+Vishal Kumar (Zeroman0000) : https://github.com/Zeroman0000
+
+# Contact:
+Email:- sporanik0@gmail.com
 
 
 
