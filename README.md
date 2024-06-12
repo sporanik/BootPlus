@@ -4,7 +4,7 @@
 
 **IDE :** VS-Code
 
-**Note :** Bot is deployed on Home page
+**Note :** chatBot is deployed on Home page
 
 # **Industry :**
 **Lifestyle**
