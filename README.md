@@ -59,13 +59,13 @@ HTML, CSS, JavaScript , Bootstrap
 
 # **Team Member Contribution :**
 
-**1.** **Suryansh Poranik** - Project Mananger / Project Leader
+**1.** **Suryansh Poranik** - Project Leader / Azure Services
 
-**2.** **Vivek Patel** - Azure services coordinator
+**2.** **Vivek Patel** - HTML,CSS,JS(Coading)
 
-**3.** **Sushil Kumar Dwivedi** - Frontend Developer / UI Designer
+**3.** **Sushil Kumar Dwivedi** - HTML,CSS,JS(Coading)
 
-**4.** **Vishal Kumar** -  Quality Assurance Tester
+**4.** **Vishal Kumar** -  Tester
 
 
 # **ScreenShot :**
