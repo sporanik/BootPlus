@@ -14,7 +14,7 @@
 
 # **Problem Statement/opportunity :**
 
-Develop a static e-commerce shoe shopping website leveraging Microsoft Bot and Azure services. Implement features such as product browsing, search, and checkout using Azure services for enhanced functionality. Integrate Microsoft Bot for customer support and streamline user interactions. Optimize for performance and security within the static framework for seamless online shopping.
+Develop a static e-commerce shoe shopping website leveraging Microsoft Bot and Azure services. Integrate Microsoft Bot for customer support and streamline user interactions. Optimize for performance  within the static framework for seamless online shopping.
 
 
 # **Project Description :**
@@ -61,9 +61,9 @@ HTML, CSS, JavaScript , Bootstrap
 
 **1.** **Suryansh Poranik** - Project Leader / Azure Services
 
-**2.** **Vivek Patel** - HTML,CSS,JS(Coading)
+**2.** **Vivek Patel** - HTML,CSS,JS(Coding)
 
-**3.** **Sushil Kumar Dwivedi** - HTML,CSS,JS(Coading)
+**3.** **Sushil Kumar Dwivedi** - HTML,CSS,JS(Coding)
 
 **4.** **Vishal Kumar** -  Tester
 
@@ -124,7 +124,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 **2. Sushil Kumar Dwivedi (SushilDwivedi2005)** **:** https://github.com/SushilDwivedi2005
 
-**3. Vive Patel (vivekpatel200)** **:** https://https://github.com/vivekpatel200
+**3. Vive Patel (vivekpatel200)** **:** https://github.com/vivekpatel200
 
 **4. Vishal Kumar (Zeroman0000)** **:** https://github.com/Zeroman0000
 
