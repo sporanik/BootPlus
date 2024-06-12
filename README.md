@@ -57,7 +57,7 @@ HTML, CSS, JavaScript , Bootstrap
 4. Language AI
 
 
-# **Team Member's Contributions :**
+# **Team Member Contribution :**
 
 **1.** **Suryansh Poranik** - Project Mananger / Project Leader
 
@@ -71,7 +71,7 @@ HTML, CSS, JavaScript , Bootstrap
 # **ScreenShot :**
 
 
-### **Azure Services :**
+### **Azure Services (Basic) :**
 
 **1. Satic Web APP :**
 
@@ -81,7 +81,9 @@ HTML, CSS, JavaScript , Bootstrap
 
 ![VirtualMachine](https://github.com/sporanik/BootPlus/assets/169908242/67301768-e5b3-49d9-9621-1b594347c3e6)
 
-**3. Azure Bot :**
+ # Azure AI Services
+
+**1. Azure AI Bot**
 
 ![chatBot](https://github.com/sporanik/BootPlus/assets/169908242/b3c9caea-a715-4f27-ac11-7da9a550b25b)
 
@@ -97,6 +99,9 @@ HTML, CSS, JavaScript , Bootstrap
 **2. Contact Page :**
 
 ![contactus](https://github.com/sporanik/BootPlus/assets/169908242/781c5004-3569-4cff-adb0-1c1c29124843)
+> [!WARNING]
+> This page is intended solely for display purposes; it does not yet include any operational logic or interactive features.
+
 
 **3. Chat Bot :**
 
