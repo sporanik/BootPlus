@@ -21,6 +21,16 @@ Develop a static e-commerce shoe shopping website leveraging Microsoft Bot and A
 
 This project entails creating a static e-commerce shoe shopping website integrated with a Microsoft Chat Bot and several Azure services. The website aims to address the increasing demand for online shoe retail, offering users a seamless shopping experience.
 
+# **URL :**
+**1. Project Demo URL :** https://sporanik.github.io/BootPlus/
+
+**2. Url of Project through Azure :** https://lemon-field-01a20f200.5.azurestaticapps.net
+
+**3. Project Demo Video URL :** https://youtu.be/XSiEw0RhpnA
+
+**4. Git hub Repository URL :** https://github.com/sporanik/BootPlus.git
+
+
 # **Features :**
 
 **1. Static Website:** A fast-loading and easily maintainable website.
@@ -46,12 +56,6 @@ HTML, CSS, JavaScript , Bootstrap
 3. Azure AI bot Services
 4. Language AI
 
-# **URL :**
-**1. Project Demo URL :** https://lemon-field-01a20f200.5.azurestaticapps.net/
-
-**2. Project Demo Video URL :** https://youtu.be/XSiEw0RhpnA
-
-**3. Git hub Repository URL :** https://github.com/sporanik/BootPlus.git
 
 # **Team Member's Contributions :**
 
