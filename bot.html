@@ -42,7 +42,7 @@
         }
 
         .chatbot-frame iframe {
-            width: 100%;
+            width: 90%;
             height: 500px;
             border-radius: 10px;
             border: none;
@@ -66,7 +66,8 @@
             }
 
             .chatbot-frame iframe {
-                height: 400px;
+                height: auto;
+                width: auto;
             }
         }
           .button:hover {
@@ -96,10 +97,10 @@
     </style>
 </head>
 <body>
-    <div class="chatbot-container">
+    <div class="chatbot-container d-flex">
         <h1>Clear your doubts</h1>
-        <div class="chatbot-frame">
-            <iframe src='https://webchat.botframework.com/embed/BootPlusLan-bot?s=Vop8tXIKrvo.IaA2mNYwIXZa4AdrkBR7edgG5KbKB2XJXTl8KPd6G7g'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+        <div class="chatbot-frame d-flex m-3 p-3 text-center">
+            <iframe src='https://webchat.botframework.com/embed/BootPlusLan-bot?s=Vop8tXIKrvo.IaA2mNYwIXZa4AdrkBR7edgG5KbKB2XJXTl8KPd6G7g'  style='width: 100%; min-height: 500px;'></iframe>
         </div>
        <div id="bac"><button type="submit" class="button"><a href="index.html" id="back" style="color: black;"  > Back To Home</a></button></div>
     </div>
