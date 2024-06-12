@@ -123,6 +123,9 @@ HTML, CSS, JavaScript , Bootstrap
 
 **4. Vishal Kumar (Zeroman0000)** **:** https://github.com/Zeroman0000
 
+# Disclaimer:
+Our static e-commerce website is purely for showcasing products and no backend or database connections exist. Information provided is for demonstration purposes only. We do not process transactions or store user data.
+
 # Contact:
 **Email:-** sporanik0@gmail.com
 
