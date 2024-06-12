@@ -34,7 +34,6 @@ This project entails creating a static e-commerce shoe shopping website integrat
 
 **5. Responsive Design:** Optimized for various devices to provide an optimal viewing experience.
 
-**6. Azure AI Integration:** Personalized product recommendations using Azure AI services based on user preferences.
 
 ### **Technologies Stack :**
 
