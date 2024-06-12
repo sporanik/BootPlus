@@ -85,7 +85,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 **1. Azure AI Bot**
 
-![chatBot](https://github.com/sporanik/BootPlus/assets/169908242/b3c9caea-a715-4f27-ac11-7da9a550b25b)
+![bot](https://github.com/sporanik/BootPlus/assets/169908242/74de4e4f-bcd8-4049-bbf3-f0b91094705e)
 
 
 
