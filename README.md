@@ -65,7 +65,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 **3.** **Sushil Kumar Dwivedi** - HTML,CSS,JS(Coding)
 
-**4.** **Vishal Kumar** -  Tester
+**4.** **Vishal Kumar** - Project Testing
 
 
 # **Screenshot :**
@@ -124,7 +124,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 **2. Sushil Kumar Dwivedi (SushilDwivedi2005)** **:** https://github.com/SushilDwivedi2005
 
-**3. Vive Patel (vivekpatel200)** **:** https://github.com/vivekpatel200
+**3. Vivek Patel (vivekpatel200)** **:** https://github.com/vivekpatel200
 
 **4. Vishal Kumar (Zeroman0000)** **:** https://github.com/Zeroman0000
 
