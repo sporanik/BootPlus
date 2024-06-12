@@ -7,10 +7,10 @@
 **Note :** Bot is deployed on Home page
 
 # **Industry :**
-Lifestyle
+**Lifestyle**
 
 # **Project Title :**
-Bootplus
+**Bootplus**
 
 # **Problem Statement/opportunity :**
 
@@ -43,7 +43,7 @@ HTML, CSS, JavaScript , Bootstrap
 # **Azure Services :**
 1. Static Web App
 2. Virtual Network 
-3. Azure AI Services
+3. Azure AI bot Services
 4. Language AI
 
 # **URL :**
@@ -51,23 +51,23 @@ HTML, CSS, JavaScript , Bootstrap
 
 **2. Project Demo Video URL :** https://youtu.be/XSiEw0RhpnA
 
-**3. Git hub Repository URL :** https://github.com/sporanik/BootPlus
+**3. Git hub Repository URL :** https://github.com/sporanik/BootPlus.git
 
-# **Member's Contributions :**
+# **Team Member's Contributions :**
 
-**1.** Suryansh Poranik - Project Mananger / Project Leader
+**1.** **Suryansh Poranik** - Project Mananger / Project Leader
 
-**2.** Vivek Patel - Azure services coordinator
+**2.** **Vivek Patel** - Azure services coordinator
 
-**3.** Sushil Kumar Dwivedi - Frontend Developer / UI Designer
+**3.** **Sushil Kumar Dwivedi** - Frontend Developer / UI Designer
 
-**4.** Vishal Kumar -  Quality Assurance Tester
+**4.** **Vishal Kumar** -  Quality Assurance Tester
 
 
 # **ScreenShot :**
 
 
-**Azure services :**
+### **Azure Services :**
 
 **1. Satic Web APP :**
 
@@ -83,44 +83,44 @@ HTML, CSS, JavaScript , Bootstrap
 
 
 
-**Project Demo:**
+### **Project Screenshot:**
 
 
-**Home Page  :**
+**1. Home Page  :**
 
-![Home](https://github.com/sporanik/BootPlus/assets/169908242/a48cc095-c3d6-4b11-a7ec-75536660eebe)
+![home](https://github.com/sporanik/BootPlus/assets/169908242/8f28e677-2866-4cb3-9381-76cc9f7c7fbc)
 
-**Contect Page :**
+**2. Contact Page :**
 
-![Contect](https://github.com/sporanik/BootPlus/assets/169908242/ab4c7a94-cf19-470c-a02a-7f3659224355)
+![contactus](https://github.com/sporanik/BootPlus/assets/169908242/781c5004-3569-4cff-adb0-1c1c29124843)
 
-**Chat Bot :**
+**3. Chat Bot :**
 
-![Chat Bot](https://github.com/sporanik/BootPlus/assets/169908242/45df7feb-2475-42f3-b8c9-0a2c58859387)
+![chatbot](https://github.com/sporanik/BootPlus/assets/169908242/cdc3dc23-4afc-487d-bb35-66d3e9e31970)
 
-**Shop Page :**
+**4. Shop Page :**
 
-![Shop](https://github.com/sporanik/BootPlus/assets/169908242/1068e939-7a22-4524-86fe-3e683a2ba142)
+![shop now](https://github.com/sporanik/BootPlus/assets/169908242/6f25ef9c-4727-4f27-88af-c51c56a6ee1c)
 
-**About Page :**
+**5. About Page :**
 
-![About](https://github.com/sporanik/BootPlus/assets/169908242/efd9d32f-0e20-40ca-9656-87207a8d8587)
+![about](https://github.com/sporanik/BootPlus/assets/169908242/1a729a55-a47a-44f8-ad50-da3103b3809d)
 
-**Blog Page :**
+**6. Blog Page :**
+![blog](https://github.com/sporanik/BootPlus/assets/169908242/05f326df-99a5-4037-b6e1-1f98cc51390d)
 
-![Blog](https://github.com/sporanik/BootPlus/assets/169908242/b2a83fe6-482c-4d65-a400-677cd00f69c2)
 
-# Team members :
-Suryansh Poranik (sporanik) : https://github.com/sporanik
+# Team Members Github URL:
+**1. Suryansh Poranik (sporanik)** **:** https://github.com/sporanik
 
-Sushil Kumar Dwivedi (SushilDwivedi2005) : https://github.com/SushilDwivedi2005
+**2. Sushil Kumar Dwivedi (SushilDwivedi2005)** **:** https://github.com/SushilDwivedi2005
 
-Vive Patel (vivekpatel200) : https://https://github.com/vivekpatel200
+**3. Vive Patel (vivekpatel200)** **:** https://https://github.com/vivekpatel200
 
-Vishal Kumar (Zeroman0000) : https://github.com/Zeroman0000
+**4. Vishal Kumar (Zeroman0000)** **:** https://github.com/Zeroman0000
 
 # Contact:
-Email:- sporanik0@gmail.com
+**Email:-** sporanik0@gmail.com
 
 
 
