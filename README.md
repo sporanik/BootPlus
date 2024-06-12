@@ -68,7 +68,7 @@ HTML, CSS, JavaScript , Bootstrap
 **4.** **Vishal Kumar** -  Tester
 
 
-# **ScreenShot :**
+# **Screenshot :**
 
 
 ### **Azure Services (Basic) :**
@@ -81,7 +81,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 ![VirtualMachine](https://github.com/sporanik/BootPlus/assets/169908242/67301768-e5b3-49d9-9621-1b594347c3e6)
 
- # Azure AI Services
+ ### Azure AI Services
 
 **1. Azure AI Bot**
 
