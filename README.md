@@ -51,7 +51,7 @@ HTML, CSS, JavaScript , Bootstrap
 
 **2. Project Demo Video URL :** https://youtu.be/XSiEw0RhpnA
 
-**3. Git hub Repository URL :** https://sporanik.github.io/BootPlus/
+**3. Git hub Repository URL :** https://github.com/sporanik/BootPlus
 
 # **Member's Contributions :**
 
